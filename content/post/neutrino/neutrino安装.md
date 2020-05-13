@@ -37,6 +37,3 @@ npm install --save-dev neutrino @neutrinojs/react
 
 ####  入门
 请继续阅读文档以获取有关 `Neutrino` 使用和默认项目布局的说明
-
-
-
