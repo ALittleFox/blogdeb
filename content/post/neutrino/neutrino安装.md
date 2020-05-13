@@ -7,7 +7,7 @@ tags: ["neutrino中文","neutrino"]
 ### 安装Neutrino
 
 #### 要求
-安装 `Neutrino` 需要 `node.js 10+`，`yarn` 或者 `npm`。至少你应该安装 `Neutrino` 或者 `Neutrino` 中间件，比如 `@neutrinojs/react`。
+安装 `Neutrino` 需要 `node.js 10+`，`yarn` 或者 `npm`。你至少应该安装 `Neutrino` 和 `Neutrino` 中间件，比如 `@neutrinojs/react`。
 
 #### 创建新工程
 最快的方法是使用脚手架工具 `@neutrinojs/create-project`。 如果你不想使用命令行帮助程序，请按照以下步骤进行手动安装说明。
