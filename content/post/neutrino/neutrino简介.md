@@ -2,7 +2,7 @@
 title: "Neutrino简介"
 date: 2020-05-13T13:38:28+08:00
 draft: false
-tags: ["neutrinojs","neutrino","webpack"]
+tags: ["neutrino中文","neutrino"]
 ---
 ### 零配置的创建和构造现代JavaScript应用
 **neutrino是webpack的gone能和预设的简单结合**
